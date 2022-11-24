@@ -1,35 +1,15 @@
-<a href="http://https://www.twilio.com/.com"><img src="https://www.bizahoy.com/resource/wp-content/uploads/sites/2/elementor/thumbs/Twilio-Logo-1-o6ls9rqpp2oa50hulcri8k8ribzeqd3phv54nagwck.png" title="Twilio Logo" alt="Twilio Logo">
-
-</a>
-
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
 ***https://www.twilio.com/.com***
 
-# Send SMS in Your Spring Boot App
+> Send SMS with Spring Boot App
 
-> In this tutorial, find complete sample code to send an SMS in Java through Spring Boot and display callback messages using WebSockets.
+> In this tutorial, find complete sample code to send a SMS in Java through Spring Boot and display callback messages using WebSockets.
 
 > #TwilioSMS #Websockets
 
-
-## Table of Contents 
-
-
-- [Installation](#installation)
-- [SUPPORT](#SUPPORT)
-
-
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
 ### Setup
 
-- Add the following dependencies in your build.gradle file
+- Dependencies in build.gradle file
 ---
 
 ```javascript
@@ -46,8 +26,6 @@ dependencies {
 
 ---
 
-
-> Make sure to have Java 8 or later JDK
 
 > ngrok allows you to expose a web server running on your local machine to the internet. By informing the port #, we can expose the localhost
 
