@@ -64,12 +64,3 @@ $ ./gradlew bootRun
 > Test the app by sending a SMS through localhost:8080
 ---
 
-## Support
-
-Reach out to me at one of the following places!
-
-- email psrinath@twilio.com
-- For more details and documentation twilio.com
-
----
-
