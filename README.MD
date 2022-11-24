@@ -27,10 +27,6 @@
 - All the `code` required to get started
 - Images of what it should look like
 
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/PoojaChirp/WebSocketsSMS`
-
 ### Setup
 
 - Add the following dependencies in your build.gradle file
