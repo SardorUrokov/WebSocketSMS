@@ -26,7 +26,7 @@ dependencies {
 
 ---
 
-
+<!-- 
 > ngrok allows you to expose a web server running on your local machine to the internet. By informing the port #, we can expose the localhost
 
 ```shell
@@ -41,4 +41,4 @@ $ ./gradlew bootRun
 
 > Test the app by sending a SMS through localhost:8080
 ---
-
+ -->
