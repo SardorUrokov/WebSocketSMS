@@ -3,7 +3,7 @@
 
 > Send SMS with Spring Boot App
 
-> In this tutorial, find complete sample code to send a SMS in Java through Spring Boot and display callback messages using WebSockets.
+>  This application send a SMS in Java through Spring Boot and display callback messages using WebSockets.
 
 > #TwilioSMS #Websockets
 
